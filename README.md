@@ -2,7 +2,7 @@
 Kinematic Analysis of ARISTO Robot using RoboAnalyzer
 
 This repository corresponds to my article **[Kinematic Analysis of ARISTO Robot using RoboAnalyzer](https://medium.com/@manojreddy2404/kinematic-analysis-of-aristo-robot-using-roboanalyzer-a7d5f33a9742)**.  
-It contains resources and simulation data to explore the ARISTO robot’s kinematics using the RoboAnalyzer software tool.
+It contains resources and simulation data to explore the ARISTO robot’s kinematics using the RoboAnalyzer software tool. I wrote this blog on Medium. Check it out..
 
 ---
 **Project Overview**
